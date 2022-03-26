@@ -1,0 +1,16 @@
+{
+  "name": "yy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": "./bin/yy",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "chalk": "^4.1.2",
+    "commander": "^9.1.0",
+    "download-git-repo": "^3.0.2",
+    "fs-extra": "^10.0.1",
+    "inquirer": "^8.2.2",
+    "ora": "^5.4.1"
+  }
+}
